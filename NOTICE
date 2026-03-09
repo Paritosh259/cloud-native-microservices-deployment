@@ -1,0 +1,4 @@
+This repository is a derivative work based on the Google Cloud Microservices Demo.
+
+Original project by Google LLC.
+Modifications and infrastructure enhancements (Terraform, Jenkins pipelines, and Kubernetes optimizations) by Paritosh Singh, 2026.
